@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Permissions</string>
     <string name="gallery">gallery</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="go_settings">Перейти в настройки, чтобы включить разрешение для галереи</string>
+    <string name="settings">Настройки</string>
+    <string name="no">Отмена</string>
+    <string name="order_confirmation">strings</string>
 </resources>
